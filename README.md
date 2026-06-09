@@ -112,40 +112,34 @@
 
 <h2 align="center">Featured Projects</h2>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/amritanshu009/Multi-model-stress-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshu009&repo=Multi-model-stress-analysis&theme=tokyonight&title_color=39445F&text_color=E4E2DB&icon_color=BEBDB9&bg_color=181315&hide_border=true" alt="Multi Model Stress Analysis" />
+    <img src="https://img.shields.io/badge/Multi%20Model%20Stress%20Analysis-39445F?style=for-the-badge&logo=github&logoColor=E4E2DB" />
   </a>
-</div>
 
-<br>
-
-<div align="center">
   <a href="https://github.com/amritanshu009/Sentimental_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshu009&repo=Sentimental_Analysis&theme=tokyonight&title_color=39445F&text_color=E4E2DB&icon_color=BEBDB9&bg_color=181315&hide_border=true" alt="Sentimental Analysis" />
+    <img src="https://img.shields.io/badge/Sentimental%20Analysis-181315?style=for-the-badge&logo=github&logoColor=BEBDB9" />
   </a>
-</div>
 
-<br>
-
-<div align="center">
   <a href="https://github.com/amritanshu009/pothole-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshu009&repo=pothole-detection&theme=tokyonight&title_color=39445F&text_color=E4E2DB&icon_color=BEBDB9&bg_color=181315&hide_border=true" alt="Pothole Detection" />
+    <img src="https://img.shields.io/badge/Pothole%20Detection-39445F?style=for-the-badge&logo=github&logoColor=E4E2DB" />
   </a>
-</div>
+</p>
 
 ---
 
 <h2 align="center">GitHub Stats and Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu009&layout=compact&theme=tokyonight&title_color=39445F&text_color=E4E2DB&bg_color=181315&hide_border=true&custom_title=My+Programming+Languages" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amritanshu009&theme=github_dark" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amritanshu009&theme=github_dark" alt="Most Used Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritanshu009&show_icons=true&theme=tokyonight&title_color=39445F&icon_color=BEBDB9&text_color=E4E2DB&bg_color=181315&hide_border=true&custom_title=My+GitHub+Stats" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amritanshu009&theme=github_dark" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amritanshu009&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 <br>
