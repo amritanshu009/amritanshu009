@@ -33,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="35" width="45" />
   </a>
 
-  <a href="mailto:a.shiwanshirajput09@gmail.com">
+  <a href="mailto:as0229@srmist.edu.in">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="35" width="45" />
   </a>
 </p>
