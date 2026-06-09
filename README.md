@@ -43,77 +43,61 @@
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
-  </a>
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-39445F?style=for-the-badge&logo=python&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/SQL-39445F?style=for-the-badge&logo=postgresql&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-39445F?style=for-the-badge&logo=postgresql&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/Excel-39445F?style=for-the-badge&logo=microsoftexcel&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/Tableau-39445F?style=for-the-badge&logo=tableau&logoColor=E4E2DB" />
 
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
-  </a>
+</p>
 
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
-  </a>
+<p align="center">
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
-  </a>
+  <img src="https://img.shields.io/badge/Machine%20Learning-181315?style=for-the-badge&logo=scikitlearn&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/scikit--learn-181315?style=for-the-badge&logo=scikitlearn&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/NLP-181315?style=for-the-badge&logo=googlegemini&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-181315?style=for-the-badge&logo=python&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-181315?style=for-the-badge&logo=python&logoColor=BEBDB9" />
 
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/>
-  </a>
+</p>
 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
-  </a>
+<p align="center">
 
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
-  </a>
+  <img src="https://img.shields.io/badge/OpenCV-39445F?style=for-the-badge&logo=opencv&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/YOLOv5-39445F?style=for-the-badge&logo=opencv&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/CNN%20%2F%20ResNet-39445F?style=for-the-badge&logo=pytorch&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/TF--IDF-39445F?style=for-the-badge&logo=python&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/MFCC-39445F?style=for-the-badge&logo=python&logoColor=E4E2DB" />
 
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="42" height="42"/>
-  </a>
+</p>
 
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="42" height="42"/>
-  </a>
+<p align="center">
 
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/>
-  </a>
+  <img src="https://img.shields.io/badge/REST%20APIs-181315?style=for-the-badge&logo=fastapi&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/n8n-181315?style=for-the-badge&logo=n8n&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Data%20Pipelines-181315?style=for-the-badge&logo=apacheairflow&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Workflow%20Automation-181315?style=for-the-badge&logo=n8n&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Supabase-181315?style=for-the-badge&logo=supabase&logoColor=BEBDB9" />
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
-  </a>
+</p>
 
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42"/>
-  </a>
+<p align="center">
 
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/>
-  </a>
+  <img src="https://img.shields.io/badge/Data%20Analysis-39445F?style=for-the-badge&logo=googleanalytics&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/KPI%20Tracking-39445F?style=for-the-badge&logo=googleanalytics&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/Dashboarding-39445F?style=for-the-badge&logo=tableau&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/Trend%20Analysis-39445F?style=for-the-badge&logo=googleanalytics&logoColor=E4E2DB" />
 
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="42" height="42"/>
-  </a>
+</p>
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
-  </a>
+<p align="center">
 
-  <a href="https://figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="42" height="42"/>
-  </a>
+  <img src="https://img.shields.io/badge/DSA-181315?style=for-the-badge&logo=codeforces&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/OOP-181315?style=for-the-badge&logo=java&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Git-181315?style=for-the-badge&logo=git&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/GitHub-181315?style=for-the-badge&logo=github&logoColor=BEBDB9" />
 
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
-  </a>
 </p>
 
 ---
