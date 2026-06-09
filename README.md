@@ -1,27 +1,163 @@
-# 💫 About Me:
-### About Me<br><br>Hi, I’m Amritanshu Shiwanshi, a Computer Science Engineering graduate with an interest in Machine Learning, Data Analytics, NLP, Computer Vision, and AI-driven applications. I enjoy building practical projects that combine data, automation, and intelligent systems to solve real-world problems.<br><br>### I’m Currently Working On<br><br>I’m currently working on AI and data-driven projects involving machine learning, analytics dashboards, automation workflows, and intelligent web applications.<br><br>### I’m Looking to Collaborate On<br><br>I’m looking to collaborate on Machine Learning, Data Analytics, NLP, Computer Vision, RAG-based applications, and full-stack AI projects.<br><br>### I’m Looking for Help With<br><br>I’m looking for help with improving model deployment, building production-ready AI applications, cloud deployment, and creating scalable data pipelines.<br><br>### I’m Currently Learning<br><br>I’m currently learning advanced Machine Learning, FastAPI, React.js, LangGraph, vector databases, cloud deployment, and better ways to build end-to-end AI products.<br><br>### Ask Me About<br><br>Ask me about Python, SQL, Machine Learning, NLP, Data Analytics, dashboarding, automation workflows, YOLO-based object detection, and sentiment analysis.<br><br>### Fun Fact<br><br>I like turning raw data and ideas into working projects, whether it is detecting potholes, analyzing stress, predicting sentiment, or building smart AI-powered applications.<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amritanshushiwanshi/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/shivww/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.shiwanshirajput09@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=amritanshu009&theme=date_night&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=amritanshu009&theme=date_night&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amritanshu009&theme=date_night&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amritanshu009&theme=date_night&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amritanshu009&limit=5&theme=date_night&combine_all_yearly_contributions=true)
+<div align="center">
+  <img width="100%" alt="Profile Banner" src="./assets/banner.png" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=amritanshu009&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39445F&center=true&width=600&lines=Welcome+to+My+GitHub+Profile" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BEBDB9&center=true&width=700&lines=AI%2FML+Developer;Data+Analytics+Enthusiast;Full+Stack+Developer;Cybersecurity+Learner" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+  <a href="https://github.com/NS-Dinesh" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="35" width="45" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="35" width="45" />
+  </a>
+
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" height="35" width="45" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">Languages and Tools</h2>
+
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
+  </a>
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/>
+  </a>
+
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
+  </a>
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  </a>
+
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/>
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
+  </a>
+
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="42" height="42"/>
+  </a>
+
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="42" height="42"/>
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42"/>
+  </a>
+
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/>
+  </a>
+
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="42" height="42"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
+  </a>
+
+  <a href="https://figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="42" height="42"/>
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">GitHub Stats and Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NS-Dinesh&layout=compact&theme=tokyonight&title_color=39445F&text_color=E4E2DB&bg_color=181315&hide_border=true&custom_title=My+Programming+Languages" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NS-Dinesh&show_icons=true&theme=tokyonight&title_color=39445F&icon_color=BEBDB9&text_color=E4E2DB&bg_color=181315&hide_border=true&custom_title=My+GitHub+Stats" alt="GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NS-Dinesh&theme=tokyonight&background=181315&ring=39445F&fire=BEBDB9&currStreakLabel=39445F&dates=E4E2DB&sideLabels=E4E2DB&currStreakNum=E4E2DB&sideNums=E4E2DB&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+<h2 align="center">Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/NS-Dinesh/Stress-Model-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NS-Dinesh&repo=Stress-Model-Analysis&theme=tokyonight&title_color=39445F&text_color=E4E2DB&bg_color=181315&hide_border=true" alt="Stress Model Analysis" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">Visits</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NS-Dinesh&label=Profile%20Views&color=39445F&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile
+
+</div>
