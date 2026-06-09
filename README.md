@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39445F&center=true&width=600&lines=Welcome+to+My+GitHub+Profile" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39445F&center=true&width=700&lines=Welcome+to+My+GitHub+Profile" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BEBDB9&center=true&width=700&lines=AI%2FML+Developer;Data+Analytics+Enthusiast;Full+Stack+Developer;Cybersecurity+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BEBDB9&center=true&width=800&lines=AI%2FML+Developer;Data+Analyst;Data+Scientist;Machine+Learning+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,21 +21,29 @@
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
-  <a href="https://github.com/NS-Dinesh" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="35" width="45" />
+  <a href="https://amritanshushiwanshi.lovable.app/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" height="35" width="45" />
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/amritanshushiwanshi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="35" width="45" />
+  <a href="https://github.com/as0220" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="35" width="45" />
   </a>
 
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" height="35" width="45" />
+  <a href="mailto:a.shiwanshirajput09@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="35" width="45" />
   </a>
+</p>
+
+---
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  AI/ML Developer, Data Analyst, and Data Science enthusiast with experience in machine learning, NLP, data analytics, dashboards, workflow automation, and real-time computer vision projects.
 </p>
 
 ---
@@ -102,40 +110,56 @@
 
 ---
 
-<h2 align="center">GitHub Stats and Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NS-Dinesh&layout=compact&theme=tokyonight&title_color=39445F&text_color=E4E2DB&bg_color=181315&hide_border=true&custom_title=My+Programming+Languages" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NS-Dinesh&show_icons=true&theme=tokyonight&title_color=39445F&icon_color=BEBDB9&text_color=E4E2DB&bg_color=181315&hide_border=true&custom_title=My+GitHub+Stats" alt="GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NS-Dinesh&theme=tokyonight&background=181315&ring=39445F&fire=BEBDB9&currStreakLabel=39445F&dates=E4E2DB&sideLabels=E4E2DB&currStreakNum=E4E2DB&sideNums=E4E2DB&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
----
-
 <h2 align="center">Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/NS-Dinesh/Stress-Model-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NS-Dinesh&repo=Stress-Model-Analysis&theme=tokyonight&title_color=39445F&text_color=E4E2DB&bg_color=181315&hide_border=true" alt="Stress Model Analysis" />
+  <a href="https://github.com/as0220/Multi-model-stress-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=as0220&repo=Multi-model-stress-analysis&theme=tokyonight&title_color=39445F&text_color=E4E2DB&icon_color=BEBDB9&bg_color=181315&hide_border=true" alt="Multi Model Stress Analysis" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/as0220/Sentimental_Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=as0220&repo=Sentimental_Analysis&theme=tokyonight&title_color=39445F&text_color=E4E2DB&icon_color=BEBDB9&bg_color=181315&hide_border=true" alt="Sentimental Analysis" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/as0220/pothole-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=as0220&repo=pothole-detection&theme=tokyonight&title_color=39445F&text_color=E4E2DB&icon_color=BEBDB9&bg_color=181315&hide_border=true" alt="Pothole Detection" />
   </a>
 </div>
 
 ---
 
-<h2 align="center">Visits</h2>
+<h2 align="center">GitHub Stats and Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as0220&layout=compact&theme=tokyonight&title_color=39445F&text_color=E4E2DB&bg_color=181315&hide_border=true&custom_title=My+Programming+Languages" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=as0220&show_icons=true&theme=tokyonight&title_color=39445F&icon_color=BEBDB9&text_color=E4E2DB&bg_color=181315&hide_border=true&custom_title=My+GitHub+Stats" alt="GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=as0220&theme=tokyonight&background=181315&ring=39445F&fire=BEBDB9&currStreakLabel=39445F&dates=E4E2DB&sideLabels=E4E2DB&currStreakNum=E4E2DB&sideNums=E4E2DB&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+<h2 align="center">Profile Visits</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NS-Dinesh&label=Profile%20Views&color=39445F&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=as0220&label=Profile%20Views&color=39445F&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
