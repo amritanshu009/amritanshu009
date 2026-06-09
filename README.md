@@ -131,21 +131,26 @@
 <h2 align="center">GitHub Stats and Activity</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amritanshu009&theme=github_dark" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amritanshu009&theme=github_dark" alt="Most Used Languages" />
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu009&layout=compact&title_color=E4E2DB&text_color=BEBDB9&icon_color=BEBDB9&bg_color=181315&border_color=39445F&hide_border=false&custom_title=Top+Languages" 
+    alt="Top Languages" 
+  />
+
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=amritanshu009&show_icons=true&title_color=E4E2DB&text_color=BEBDB9&icon_color=39445F&bg_color=181315&border_color=39445F&hide_border=false&custom_title=GitHub+Stats" 
+    alt="GitHub Stats" 
+  />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amritanshu009&theme=github_dark" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amritanshu009&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu009&theme=tokyonight&background=181315&ring=39445F&fire=BEBDB9&currStreakLabel=39445F&dates=E4E2DB&sideLabels=E4E2DB&currStreakNum=E4E2DB&sideNums=E4E2DB&hide_border=true" alt="GitHub Streak Stats" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu009&background=181315&border=39445F&stroke=39445F&ring=39445F&fire=E4E2DB&currStreakLabel=E4E2DB&sideLabels=BEBDB9&dates=BEBDB9&currStreakNum=E4E2DB&sideNums=E4E2DB" 
+    alt="GitHub Streak Stats" 
+  />
 </div>
 
 ---
