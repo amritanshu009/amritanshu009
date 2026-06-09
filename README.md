@@ -113,26 +113,54 @@
 <h2 align="center">Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/as0220/Multi-model-stress-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=as0220&repo=Multi-model-stress-analysis&theme=tokyonight&title_color=39445F&text_color=E4E2DB&icon_color=BEBDB9&bg_color=181315&hide_border=true" alt="Multi Model Stress Analysis" />
+  <a href="https://github.com/amritanshu009/Multi-model-stress-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshu009&repo=Multi-model-stress-analysis&theme=tokyonight&title_color=39445F&text_color=E4E2DB&icon_color=BEBDB9&bg_color=181315&hide_border=true" alt="Multi Model Stress Analysis" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/as0220/Sentimental_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=as0220&repo=Sentimental_Analysis&theme=tokyonight&title_color=39445F&text_color=E4E2DB&icon_color=BEBDB9&bg_color=181315&hide_border=true" alt="Sentimental Analysis" />
+  <a href="https://github.com/amritanshu009/Sentimental_Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshu009&repo=Sentimental_Analysis&theme=tokyonight&title_color=39445F&text_color=E4E2DB&icon_color=BEBDB9&bg_color=181315&hide_border=true" alt="Sentimental Analysis" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/as0220/pothole-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=as0220&repo=pothole-detection&theme=tokyonight&title_color=39445F&text_color=E4E2DB&icon_color=BEBDB9&bg_color=181315&hide_border=true" alt="Pothole Detection" />
+  <a href="https://github.com/amritanshu009/pothole-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshu009&repo=pothole-detection&theme=tokyonight&title_color=39445F&text_color=E4E2DB&icon_color=BEBDB9&bg_color=181315&hide_border=true" alt="Pothole Detection" />
   </a>
 </div>
+
+---
+
+<h2 align="center">GitHub Stats and Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu009&layout=compact&theme=tokyonight&title_color=39445F&text_color=E4E2DB&bg_color=181315&hide_border=true&custom_title=My+Programming+Languages" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amritanshu009&show_icons=true&theme=tokyonight&title_color=39445F&icon_color=BEBDB9&text_color=E4E2DB&bg_color=181315&hide_border=true&custom_title=My+GitHub+Stats" alt="GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu009&theme=tokyonight&background=181315&ring=39445F&fire=BEBDB9&currStreakLabel=39445F&dates=E4E2DB&sideLabels=E4E2DB&currStreakNum=E4E2DB&sideNums=E4E2DB&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+<h2 align="center">Profile Visits</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amritanshu009&label=Profile%20Views&color=39445F&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
