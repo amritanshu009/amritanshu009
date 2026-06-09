@@ -132,15 +132,8 @@
 
 <div align="center">
   <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu009&layout=compact&title_color=E4E2DB&text_color=BEBDB9&icon_color=BEBDB9&bg_color=181315&border_color=39445F&hide_border=false&custom_title=Top+Languages" 
-    alt="Top Languages" 
-  />
-
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=amritanshu009&show_icons=true&title_color=E4E2DB&text_color=BEBDB9&icon_color=39445F&bg_color=181315&border_color=39445F&hide_border=false&custom_title=GitHub+Stats" 
-    alt="GitHub Stats" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu009&background=181315&border=39445F&stroke=39445F&ring=39445F&fire=E4E2DB&currStreakLabel=E4E2DB&sideLabels=BEBDB9&dates=BEBDB9&currStreakNum=E4E2DB&sideNums=E4E2DB" 
+    alt="GitHub Streak Stats" 
   />
 </div>
 
@@ -148,8 +141,8 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu009&background=181315&border=39445F&stroke=39445F&ring=39445F&fire=E4E2DB&currStreakLabel=E4E2DB&sideLabels=BEBDB9&dates=BEBDB9&currStreakNum=E4E2DB&sideNums=E4E2DB" 
-    alt="GitHub Streak Stats" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amritanshu009&bg_color=181315&color=E4E2DB&line=39445F&point=BEBDB9&area=true&area_color=39445F&title_color=E4E2DB&hide_border=false&radius=12&custom_title=Contribution%20Activity%20Graph" 
+    alt="GitHub Activity Graph" 
   />
 </div>
 
