@@ -164,34 +164,6 @@
 
 ---
 
-<h2 align="center">GitHub Stats and Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as0220&layout=compact&theme=tokyonight&title_color=39445F&text_color=E4E2DB&bg_color=181315&hide_border=true&custom_title=My+Programming+Languages" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=as0220&show_icons=true&theme=tokyonight&title_color=39445F&icon_color=BEBDB9&text_color=E4E2DB&bg_color=181315&hide_border=true&custom_title=My+GitHub+Stats" alt="GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=as0220&theme=tokyonight&background=181315&ring=39445F&fire=BEBDB9&currStreakLabel=39445F&dates=E4E2DB&sideLabels=E4E2DB&currStreakNum=E4E2DB&sideNums=E4E2DB&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
----
-
-<h2 align="center">Profile Visits</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=as0220&label=Profile%20Views&color=39445F&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
 <div align="center">
 
 ### Thanks for visiting my profile
