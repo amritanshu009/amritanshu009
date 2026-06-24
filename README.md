@@ -54,19 +54,39 @@
 
   <img src="https://img.shields.io/badge/Python-39445F?style=for-the-badge&logo=python&logoColor=E4E2DB" />
   <img src="https://img.shields.io/badge/SQL-39445F?style=for-the-badge&logo=postgresql&logoColor=E4E2DB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-39445F?style=for-the-badge&logo=postgresql&logoColor=E4E2DB" />
-  <img src="https://img.shields.io/badge/Excel-39445F?style=for-the-badge&logo=microsoftexcel&logoColor=E4E2DB" />
-  <img src="https://img.shields.io/badge/Tableau-39445F?style=for-the-badge&logo=tableau&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/JavaScript-39445F?style=for-the-badge&logo=javascript&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/React-39445F?style=for-the-badge&logo=react&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-39445F?style=for-the-badge&logo=tailwindcss&logoColor=E4E2DB" />
 
 </p>
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Machine%20Learning-181315?style=for-the-badge&logo=scikitlearn&logoColor=BEBDB9" />
-  <img src="https://img.shields.io/badge/scikit--learn-181315?style=for-the-badge&logo=scikitlearn&logoColor=BEBDB9" />
-  <img src="https://img.shields.io/badge/NLP-181315?style=for-the-badge&logo=googlegemini&logoColor=BEBDB9" />
-  <img src="https://img.shields.io/badge/Feature%20Engineering-181315?style=for-the-badge&logo=python&logoColor=BEBDB9" />
-  <img src="https://img.shields.io/badge/Model%20Evaluation-181315?style=for-the-badge&logo=python&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/PostgreSQL-181315?style=for-the-badge&logo=postgresql&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Supabase-181315?style=for-the-badge&logo=supabase&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/REST%20APIs-181315?style=for-the-badge&logo=fastapi&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Vercel-181315?style=for-the-badge&logo=vercel&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/GitHub-181315?style=for-the-badge&logo=github&logoColor=BEBDB9" />
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Machine%20Learning-39445F?style=for-the-badge&logo=scikitlearn&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/scikit--learn-39445F?style=for-the-badge&logo=scikitlearn&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/NLP-39445F?style=for-the-badge&logo=googlegemini&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/RAG-39445F?style=for-the-badge&logo=googlegemini&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/Vector%20Search-39445F?style=for-the-badge&logo=postgresql&logoColor=E4E2DB" />
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Gemini%20API-181315?style=for-the-badge&logo=googlegemini&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Embeddings-181315?style=for-the-badge&logo=googlegemini&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Data%20Pipelines-181315?style=for-the-badge&logo=apacheairflow&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Workflow%20Automation-181315?style=for-the-badge&logo=n8n&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/n8n-181315?style=for-the-badge&logo=n8n&logoColor=BEBDB9" />
 
 </p>
 
@@ -82,29 +102,20 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/REST%20APIs-181315?style=for-the-badge&logo=fastapi&logoColor=BEBDB9" />
-  <img src="https://img.shields.io/badge/n8n-181315?style=for-the-badge&logo=n8n&logoColor=BEBDB9" />
-  <img src="https://img.shields.io/badge/Data%20Pipelines-181315?style=for-the-badge&logo=apacheairflow&logoColor=BEBDB9" />
-  <img src="https://img.shields.io/badge/Workflow%20Automation-181315?style=for-the-badge&logo=n8n&logoColor=BEBDB9" />
-  <img src="https://img.shields.io/badge/Supabase-181315?style=for-the-badge&logo=supabase&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-181315?style=for-the-badge&logo=googleanalytics&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/KPI%20Tracking-181315?style=for-the-badge&logo=googleanalytics&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Dashboarding-181315?style=for-the-badge&logo=tableau&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Trend%20Analysis-181315?style=for-the-badge&logo=googleanalytics&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/Excel-181315?style=for-the-badge&logo=microsoftexcel&logoColor=BEBDB9" />
 
 </p>
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Data%20Analysis-39445F?style=for-the-badge&logo=googleanalytics&logoColor=E4E2DB" />
-  <img src="https://img.shields.io/badge/KPI%20Tracking-39445F?style=for-the-badge&logo=googleanalytics&logoColor=E4E2DB" />
-  <img src="https://img.shields.io/badge/Dashboarding-39445F?style=for-the-badge&logo=tableau&logoColor=E4E2DB" />
-  <img src="https://img.shields.io/badge/Trend%20Analysis-39445F?style=for-the-badge&logo=googleanalytics&logoColor=E4E2DB" />
-
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/DSA-181315?style=for-the-badge&logo=codeforces&logoColor=BEBDB9" />
-  <img src="https://img.shields.io/badge/OOP-181315?style=for-the-badge&logo=java&logoColor=BEBDB9" />
-  <img src="https://img.shields.io/badge/Git-181315?style=for-the-badge&logo=git&logoColor=BEBDB9" />
-  <img src="https://img.shields.io/badge/GitHub-181315?style=for-the-badge&logo=github&logoColor=BEBDB9" />
+  <img src="https://img.shields.io/badge/DSA-39445F?style=for-the-badge&logo=codeforces&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/OOP-39445F?style=for-the-badge&logo=java&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/Git-39445F?style=for-the-badge&logo=git&logoColor=E4E2DB" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-39445F?style=for-the-badge&logo=githubactions&logoColor=E4E2DB" />
 
 </p>
 
