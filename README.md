@@ -110,7 +110,7 @@
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+<<h2 align="center">Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/amritanshu009/Multi-model-stress-analysis">
@@ -121,8 +121,12 @@
     <img src="https://img.shields.io/badge/Sentimental%20Analysis-181315?style=for-the-badge&logo=github&logoColor=BEBDB9" />
   </a>
 
+  <a href="https://github.com/amritanshu009/FIELD-SENSE">
+    <img src="https://img.shields.io/badge/FieldSense-39445F?style=for-the-badge&logo=github&logoColor=E4E2DB" />
+  </a>
+
   <a href="https://github.com/amritanshu009/pothole-detection">
-    <img src="https://img.shields.io/badge/Pothole%20Detection-39445F?style=for-the-badge&logo=github&logoColor=E4E2DB" />
+    <img src="https://img.shields.io/badge/Pothole%20Detection-181315?style=for-the-badge&logo=github&logoColor=BEBDB9" />
   </a>
 </p>
 
