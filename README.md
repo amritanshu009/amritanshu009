@@ -43,7 +43,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  AI/ML Developer, Data Analyst, and Data Science enthusiast with experience in machine learning, NLP, data analytics, dashboards, workflow automation, and real-time computer vision projects.
+  Data Analyst enthusiast with experience in SQL, Python, Excel, data cleaning, exploratory analysis, dashboards, automation, and translating data into actionable business insights.
 </p>
 
 ---
