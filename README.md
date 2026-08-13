@@ -43,7 +43,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Data Analyst enthusiast with experience in SQL, Python, Excel, data cleaning, exploratory analysis, dashboards, automation, and translating data into actionable business insights.
+Analytics enthusiast with experience in SQL, Python, Excel, data cleaning, exploratory analysis, dashboards, automation, and translating data into actionable business insights.
 </p>
 
 ---
