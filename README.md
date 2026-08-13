@@ -121,7 +121,7 @@ Analytics enthusiast with experience in SQL, Python, Excel, data cleaning, explo
 
 ---
 
-<<h2 align="center">Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/amritanshu009/Multi-model-stress-analysis">
